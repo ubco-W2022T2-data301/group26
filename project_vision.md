@@ -6,4 +6,4 @@ Soccer is the most popular sport in today’s world. Its enormous fan base prese
 
 ## Contracted Grade
 
-For this project, we agree to contract for a an A+
+For this project, we agree to contract for an A+.
