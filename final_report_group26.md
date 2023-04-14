@@ -52,15 +52,6 @@ The second research question that we were working with was about A, xA and xA-A 
 
 ** PLOT 5
 
-The first diagram is a barplot of players vs A, xA and the difference between xA and A. We can see from the diagram that while the first and second bar plots follow a similar trend, however,  their differences can be noted significantly in the third bar plot which shows some under the bar graph data and over the bar graph data. The barplots which go over means that the difference of xA and A is positive which further denotes that the player has underperformed. Similarly the bar plots which go under means that the difference of xA and A is negative which further denotes that the player has overperformed.
-
-
-** PLOT 6
-
-The Second diagram is where we further justify our data analytics. We can see how the overachievement or underachievement of players in their respective teams has affected their team, as a whole. We can see that due to those performances of all the players, some of the teams were overachieving while some of the teams were underachieving. This further led to either the glory or demise of that specific team in that season.
-
-
-
 
 
 

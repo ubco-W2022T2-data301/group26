@@ -21,15 +21,6 @@ Person 2 (Ifaz Chowdhury): I want to examine the efficiency for top players and 
 
 Person 3 (Imtiaz Nasif): As a computer science major I've always been interested in working with data analysis, manipulate and how to handle big data. This course seems the perfect opportunity to dive deeper into my interest as I'm a football fan.
 
-### Images
-
-{You should use this area to add a screenshot of an interesting plot, or of your dashboard}
-
-<img src ="images/test.png" width="100px">
-
-### References
-
-{Add your stuff here}
 
 
 
