@@ -52,6 +52,38 @@ The second research question that we were working with was about A, xA and xA-A 
 
 ** PLOT 5
 
+The first diagram is a barplot of players vs A, xA and the difference between xA and A. We can see from the diagram that while the first and second bar plots follow a similar trend, however,  their differences can be noted significantly in the third bar plot which shows some under the bar graph data and over the bar graph data. The barplots which go over means that the difference of xA and A is positive which further denotes that the player has underperformed. Similarly the bar plots which go under means that the difference of xA and A is negative which further denotes that the player has overperformed.
+
+** PLOT 6
+
+The Second diagram is where we further justify our data analytics. We can see how the overachievement or underachievement of players in their respective teams has affected their team, as a whole. We can see that due to those performances of all the players, some of the teams were overachieving while some of the teams were underachieving. This further led to either the glory or demise of that specific team in that season.
+
+
+## Research Question 3: 
+
+My research question dives into the correlation between Expected Goals on a per 90 minute basis (xG90) and Expected Assists on a per 90 minute basis (xG90). The reason why I chose these two statistics to take a deeper analysis into is because the Expected metrics highlights a player’s performance based off of how many goals/assists they should have scored. This is calculated through the positions they put themselves into which is why this correlation particularly interests me because I want to see if based on a player’s positional play is there a correlation between the amount of goals a player is expected to score per game and the amount of assists a player is expected to earn per game. The reason why I’m choosing per 90 minute metrics to evaluate this data is because I want to assess the use of per 90 minute metrics to evaluate players and whether they are a reliable statistic to judge player performance. 
+
+** PLOT 7 
+
+From this graph we can see that the Expected Goals per 90 minutes(xG90) statistic is dominated by outliers who performed 3-4x higher than other players. However, looking further into this statistic gives us an idea that these are players who haven’t had many appearances and are typically performing at this level in a very limited number of appearances which is why their statistic is so high on a per 90 minute metric. When we see these players typically don’t have many actual Goals it brings up a question about how reliable this metric is in order to judge a player. If we filter Outliers it brings up the question about using these kinds of statistics because oftentimes the best players are considered to be outliers. Expected Assists per 90 minutes (xA90) follows the same direction which we can see in the following BoxPlot.
+
+
+** PLOT 8 
+From the plot above we can see the degree to which some players are skewing the data because of the nature of these per 90 minute metrics. The outliers are performing at an unrealistically higher rate than most players. These players as we’ve seen from the previous plot are outliers because of their low number of appearances.
+
+
+## Summary: 
+
+Overall, through this project we were able to find several relationships between variables related to football. We were able to figure out the expected values are not just randomly guessed numbers but very reliable figures that contribute to team and player valuations. Some of the key highlights from our project include: 
+Players with high expected goals (xG) had a high number of actual goals (G) and their teams also finished in better positions.
+It was evidently clear that A and xA were also pretty much similar to each other. 
+The difference between xG and G and xA and A helped show if a player was underperforming or overachieving. 
+It was evident that players who perform substantially in the xG90 and xA90 metrics are typically players who have a low number of appearances which makes it not the best statistic to judge player performance as it’s commendable for players to perform at a high level in more appearances and having low number of minutes shouldn’t positively affect the judgment of that player.
+
+
+
+
+
 
 
 
